@@ -1,2 +1,2 @@
-# treasrure_hunt_game
+# treasure_hunt_game
 Python Game
